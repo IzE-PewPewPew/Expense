@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseLib", "Library\ExpenseLib.csproj", "{9B385896-C2D4-42F7-8271-5646A9D7FD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseConsole", "Console\ExpenseConsole.csproj", "{200D2B11-22ED-4A0F-949A-525A174D3FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseWinForms", "WinFormsApp\ExpenseWinForms.csproj", "{816F9DBF-8CEF-4B90-B2DF-DEC6690439A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B385896-C2D4-42F7-8271-5646A9D7FD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B385896-C2D4-42F7-8271-5646A9D7FD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B385896-C2D4-42F7-8271-5646A9D7FD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B385896-C2D4-42F7-8271-5646A9D7FD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200D2B11-22ED-4A0F-949A-525A174D3FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200D2B11-22ED-4A0F-949A-525A174D3FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200D2B11-22ED-4A0F-949A-525A174D3FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200D2B11-22ED-4A0F-949A-525A174D3FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816F9DBF-8CEF-4B90-B2DF-DEC6690439A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816F9DBF-8CEF-4B90-B2DF-DEC6690439A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816F9DBF-8CEF-4B90-B2DF-DEC6690439A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816F9DBF-8CEF-4B90-B2DF-DEC6690439A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
