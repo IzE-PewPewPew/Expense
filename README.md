@@ -1,7 +1,14 @@
-# Expense
-C# Lesson Expense StaticLib: Console, .NET WinForms
+# 💸 Expense Management Solution
 
-# 🗂 Project Structure
+C# Lesson: Expense Static Library with Console and .NET WinForms Projects
+
+This solution demonstrates how to create a simple C# project structure with a **Class Library**, **Console App**, and **WinForms App**, built using the .NET CLI.
+
+---
+
+## 🗂 Project Structure
+
+```bash
 Expenses/
 │
 ├── 📁 Library/
@@ -14,6 +21,7 @@ Expenses/
 │   └── 📄 ExpenseWinForms.csproj # WinForms app project
 │
 └── 📄 Expenses.sln               # Solution file that ties all projects together
+
 
 
 Use .NET CLI and WinForms via Command Line to create a solution containing 3 projects by following steps:
